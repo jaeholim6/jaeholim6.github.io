@@ -1,0 +1,7 @@
+lib/
+node_modules/
+bundle.css
+bundle.js
+.idea
+.vscode
+.env
